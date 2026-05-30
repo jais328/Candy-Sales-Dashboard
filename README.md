@@ -29,4 +29,5 @@ sales data across factories, products, and regions.
 - `Candy_Targets.csv` — Target data
 
 ## 📷 Dashboard Preview
-![Candy Sales Dashboard](dashboard_screenshot.png)
+<img width="578" height="325" alt="image" src="https://github.com/user-attachments/assets/e8b4d9d5-4ceb-4810-9ce1-477b6b4fa840" />
+
